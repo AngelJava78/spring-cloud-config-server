@@ -13,4 +13,4 @@ All projects require another GitHub repository:
 
 - **git-config** (https://github.com/AngelJava78/git-config). A webhook is needed to push changes from GitHub to the config-server. In a local environment, ngrok helps to test your apps. `ngrok http http://localhost:8888`
 
-Note: The projects in this repository are built using Spring Cloud Config and require advanced knowledge of .NET 7, C#, JSON, microservices architecture, web APIs, and SQL databases such as SQL Server.
+Note: The projects in this repository are built using Spring Cloud Config, Java, Maven
