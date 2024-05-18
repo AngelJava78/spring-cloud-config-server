@@ -1,0 +1,22 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      enabled: true
+      server:
+        git:
+          #uri: C:\Users\HP 600\Downloads\microservicios\git-config\ms-config-repository
+          uri: C:\Java\spring-cloud-config-server\git-config
+
+  rabbitmq:
+    host: 192.168.100.13
+    port: 5672
+    username: admin
+    password: admin          
+#spring.rabbitmq.host=localhost
+#spring.rabbitmq.port=5672
+#spring.rabbitmq.username=guest
+#spring.rabbitmq.password=guest
