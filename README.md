@@ -14,3 +14,10 @@ All projects require another GitHub repository:
 - **git-config** (https://github.com/AngelJava78/git-config). A webhook is needed to push changes from GitHub to the config-server. In a local environment, ngrok helps to test your apps. `ngrok http http://localhost:8888`
 
 Note: The projects in this repository are built using Spring Cloud Config, Java, Maven
+
+## References
+
+- [Spring Cloud Config](https://spring.io/projects/spring-cloud-config)
+- [YouTube: Spring Cloud Config Tutorial](https://www.youtube.com/watch?v=WUp_KLpGdTI)
+- [YouTube: Spring Cloud Config Server with Git](https://www.youtube.com/watch?v=wYzDPX7c0_c)
+- [YouTube: Spring Cloud Config Server with Vault](https://www.youtube.com/watch?v=baJZolQ14Jc)
