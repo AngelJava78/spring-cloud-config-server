@@ -18,6 +18,6 @@ Note: The projects in this repository are built using Spring Cloud Config, Java,
 ## References
 
 - [Spring Cloud Config](https://spring.io/projects/spring-cloud-config)
-- [YouTube: Spring Cloud Config Tutorial](https://www.youtube.com/watch?v=WUp_KLpGdTI)
-- [YouTube: Spring Cloud Config Server with Git](https://www.youtube.com/watch?v=wYzDPX7c0_c)
-- [YouTube: Spring Cloud Config Server with Vault](https://www.youtube.com/watch?v=baJZolQ14Jc)
+- [YouTube: Configuración centralizada con Spring Cloud Config y Git. (Parte 1)](https://www.youtube.com/watch?v=WUp_KLpGdTI)
+- [YouTube: Configuración centralizada con Spring Cloud Config y Git. (Parte 2)](https://www.youtube.com/watch?v=wYzDPX7c0_c)
+- [YouTube: Configuración centralizada dinámica con Spring Cloud Config (Parte 3)](https://www.youtube.com/watch?v=baJZolQ14Jc)
